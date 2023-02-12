@@ -43,5 +43,3 @@ sirasiz_liste
 
 sorted(sirasiz_liste, key = lambda x: x[1])
 
-
-#Vectorel Operations
